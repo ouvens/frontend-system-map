@@ -1,6 +1,9 @@
 
 #前端体系知识图谱
-（如有需要源图，请联系）
+
+![](http://7tszky.com1.z0.glb.clouddn.com/FvUpuJC4ta8ij37qZm9L9Q2DacNm)
+
+（需要高清去水印图，求star再联系）
 
 ## 一、框架与组件
 
