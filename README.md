@@ -1,7 +1,7 @@
 
 #2015-2016前端体系知识图谱
 
-![](http://7tszky.com1.z0.glb.clouddn.com/FvUpuJC4ta8ij37qZm9L9Q2DacNm)
+![](http://7tszky.com1.z0.glb.clouddn.com/FsPayu9dzc8ecy1M16qQl5zmQe01)
 
 （玩个小游戏，需要高清去水印图，求支持求star，2000star后开放源文件）
 
