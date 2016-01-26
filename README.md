@@ -3,7 +3,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FvUpuJC4ta8ij37qZm9L9Q2DacNm)
 
-（需要高清去水印图，求star再联系）
+（玩个小游戏，需要高清去水印图，求star，2000star后开放源文件）
 
 ## 一、框架与组件
 
