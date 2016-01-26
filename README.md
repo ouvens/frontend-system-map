@@ -2,7 +2,7 @@
 #前端体系知识图谱
 （如有需要源图，请联系）
 
-##框架与组件
+## 一、框架与组件
 
 ####&emsp;bootstrap等UI框架设计与实现
 
@@ -277,7 +277,7 @@
 ####&emsp;generator与promise原理与使用
 
 
-## 构建生态
+## 二、构建生态
 
 
 ####&emsp;grunt/gulp开发环境任务编写
@@ -325,7 +325,7 @@
 ####&emsp;brunch构建工具
 
 
-### 开发技巧与调试
+## 三、开发技巧与调试
 
 
 ####&emsp;fiddler加willow基础组合调试
@@ -364,7 +364,7 @@
 ####&emsp;代码自动化检查fecs
 
 
-## html、css与重构
+## 四、html、css与重构
 
 
 ####&emsp;jpeg、webp、apng、bpg图片
@@ -586,7 +586,7 @@
  - extjs、echart图表ui
 
 
-## native/hybrid/桌面开发
+## 五、native/hybrid/桌面开发
 
 
 ####&emsp;ionic移动开发方案
@@ -682,7 +682,7 @@
  - appjs:appjs.com
 
 
-## 前端/H5优化(另一个图已给出)
+## 六、前端/H5优化(另一个图已给出)
 
 
 ####&emsp;yslow、pagespeed
@@ -711,7 +711,7 @@
 
  - 业内著名站点案例分析
 
-## 全栈/全端开发
+## 七、全栈/全端开发
 
 
 ####&emsp;express/node club + mongodb、thinkjs等框架
@@ -741,7 +741,7 @@
  - cdn原理与cdn combo
 
 
-## 研究实验
+## 八、研究实验
 
 
 ####&emsp;WebAssembly、webTRC、typescript
@@ -762,7 +762,7 @@
  - 添加自定义的元素代替禁用掉的元素：amp-audio, amp-img、amp-video等
 
 
-## 数据分析与监控
+## 九、数据分析与监控
 
 
 ####&emsp;badjs数据上报
@@ -798,7 +798,7 @@
 ####&emsp;百度alog数据上报
 
 
-## 其它软技能
+## 十、其它软技能
 
 
 ####&emsp;axure 原型图设计
@@ -819,7 +819,7 @@
 ####&emsp;产品思维与技能
 
 
-## 前端技术网站
+## 十一、前端技术网站
 
 
 ####&emsp;技术社区
