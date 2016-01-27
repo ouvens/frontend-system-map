@@ -3,7 +3,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FsPayu9dzc8ecy1M16qQl5zmQe01)
 
-对应技术博客：http://ouvens.github.io，博客持续更新中~
+对应技术博客：http://ouvens.github.io ，博客持续更新中~
 
 
 ## 一、框架与组件
