@@ -1,7 +1,7 @@
 
 #2015-2016前端知识体系
 
-![](http://7tszky.com1.z0.glb.clouddn.com/FqNcxUNyq2-mE6BSC4ITLhogqHmP)
+![](http://7tszky.com1.z0.glb.clouddn.com/FqYIe5KhDfRsXvZWKGlUAfqmcumW)
 
 对应技术博客：http://ouvens.github.io ，博客持续更新中~
 
