@@ -3,7 +3,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FqYIe5KhDfRsXvZWKGlUAfqmcumW)
 
-总结了下前端这两年的主流技术，大部分技术在我的博客里有较深入的研究学习，对应技术博客地址：http://ouvens.github.io ，博客持续更新中，欢迎大家关注~
+&emsp;&emsp;总结了下前端这两年的主流技术，大部分技术在我的博客里有较深入的研究学习，对应技术博客地址：http://ouvens.github.io ，博客持续更新中，欢迎大家关注~
 
 
 ## 一、框架与组件
