@@ -7,9 +7,9 @@
 
 &emsp;&emsp;我们先看看2017～2018前端技术知识体系图，这也是现代前端技术体系结构图的第二版。
 
-![](http://7tszky.com1.z0.glb.clouddn.com/FuPxBbTWWv76jUFXzm5X7LDGirE1)
+![](http://7tszky.com1.z0.glb.clouddn.com/FupiJWwzqxI9CgVdE8yiI4n7srGG)
 
-[查看大图](https://github.com/ouvens/frontend-system-map/tree/master/v2)
+[下载大图](https://github.com/ouvens/frontend-system-map/tree/master/v2)
 
 &emsp;&emsp;大家也可以对比2016年的知识技术体系来看看：[2015-2016前端知识体系](http://jixianqianduan.com/frontend-resource/2016/01/26/front-end-learning-list.html)。在这次更新中，主要完善了原有的部分知识内容的原理解析，增加了新的领域内容。
 
