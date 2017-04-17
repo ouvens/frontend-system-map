@@ -22,7 +22,7 @@
 
 ---
 
-&emsp;&emsp;<a href="http://www.broadview.com.cn/book"><img src="http://www.broadview.com.cn/staticbv/images/logo-02.png" title="点击查看更多前端书籍" width="240"/></a>
+&emsp;&emsp;<a href="http://www.broadview.com.cn/book"><img src="http://7tszky.com1.z0.glb.clouddn.com/FqLAMLFJ9gI3g2xHqyH_-xG0wBPH" title="点击查看更多前端书籍" width="240"/></a>
 
 ---
 
@@ -81,5 +81,5 @@
 
 &emsp;&emsp;如果遇到什么问题，可以随时联系作者，发送邮箱 <a href="mailto:ouvenzhang@qq.com">ouvenzhang@qq.com</a>
 
-&emsp;&emsp;<a href="http://www.broadview.com.cn/book"><img src="http://www.broadview.com.cn/staticbv/images/logo-02.png" title="点击查看更多图书" width="50%"/></a>
+&emsp;&emsp;<a href="http://www.broadview.com.cn/book"><img src="http://7tszky.com1.z0.glb.clouddn.com/FqLAMLFJ9gI3g2xHqyH_-xG0wBPH" title="点击查看更多图书" width="50%"/></a>
 
