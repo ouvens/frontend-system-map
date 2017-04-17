@@ -9,7 +9,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FnGOi-EnFRXs3gunx8PkaLEMGXzq)
 
-[查看大图](https://github.com/ouvens/frontend-system-map)
+[查看大图](https://github.com/ouvens/frontend-system-map/tree/master/v2)
 
 &emsp;&emsp;大家也可以对比2016年的知识技术体系来看看：[2015-2016前端知识体系](http://jixianqianduan.com/frontend-resource/2016/01/26/front-end-learning-list.html)。在这次更新中，主要完善了原有的部分知识内容的原理解析，增加了新的领域内容。
 
@@ -27,6 +27,7 @@
 ---
 
 &emsp;&emsp;<a target="_blank" href="https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130"><img src="http://7tszky.com1.z0.glb.clouddn.com/FgJZKAoJKAjGJsSt6h4Q8fLrSIqV" title="点击进入京东购买" width="240"/></a>
+&emsp;&emsp;<font color="red"> （约 ￥60 ~ ￥70）</font>
 
 &emsp;&emsp;[京东点击购买](https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130) &emsp;&emsp;[淘宝点击购买](https://s.taobao.com/search?q=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170417) &emsp;&emsp;[亚马逊购买](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Dstripbooks&field-keywords=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90)
 
