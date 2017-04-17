@@ -1,7 +1,7 @@
 
 #2015-2016前端知识体系
 
-![](https://raw.githubusercontent.com/ouvens/frontend-system-map/master/v1/%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BB-%E6%B8%85%E6%99%B0.jpg)
+![](https://raw.githubusercontent.com/ouvens/frontend-system-map/master/v1/%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BBV1-%E6%B8%85%E6%99%B0.jpg)
 
 &emsp;&emsp;总结了下前端这两年的主流技术，大部分技术在我的博客里有较深入的研究学习，对应技术博客地址：http://ouvens.github.io ，博客持续更新中，欢迎大家关注~
 
