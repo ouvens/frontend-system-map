@@ -1,13 +1,14 @@
 
 <a href="https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130"><img src="http://7tszky.com1.z0.glb.clouddn.com/Fm9f00eiJ4OMozFXeNUKwurzVzo1" title="现代前端技术解析" width="50%"></a>
 
+
 &emsp;&emsp;2017年很快又过去了几个月，在过去的一年里，前端技术迅猛发展，前端各类技术都在优化升级，"大前端"的概念进一步体现，前端人才需求量进一步扩大，但优秀的前端工程师却如大海捞针，一将难求，那么在未来一年里我们应该做好怎样的准备才能成为一名优秀(不仅仅是合格)的前端工程师呢？
 
 ####  一 、现代前端技术知识体系
 
 &emsp;&emsp;我们先看看2017～2018前端技术知识体系图，这也是现代前端技术体系结构图的第二版。
 
-![](https://raw.githubusercontent.com/ouvens/frontend-system-map/master/v2/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90_V2%40%E9%AB%98%E6%B8%85.jpg)
+![](http://7tszky.com1.z0.glb.clouddn.com/FupiJWwzqxI9CgVdE8yiI4n7srGG)
 
 [下载大图](https://github.com/ouvens/frontend-system-map/tree/master/v2)
 
@@ -72,7 +73,7 @@
 
 
 ---
-前端技术日新月异且涉及的知识面较广泛。对于初学者，可能有不知从何学起、所学的东西是否已经过时的困惑；对于中级者，可能对某些知识的了解不够全面和深刻。本书从前端技术的发展历程到整体架构体系逐层展开，基本涵盖了现阶段的前端技能树，为前端学习者指明了方向；同时本书注重从原理的层面进行知识点的解析，万变不离其宗，各种框架或技术之间其很多思想是相通的，把握住这点，将对读者们后续的学习会更有帮助。 
+&emsp;&emsp;前端技术日新月异且涉及的知识面较广泛。对于初学者，可能有不知从何学起、所学的东西是否已经过时的困惑；对于中级者，可能对某些知识的了解不够全面和深刻。本书从前端技术的发展历程到整体架构体系逐层展开，基本涵盖了现阶段的前端技能树，为前端学习者指明了方向；同时本书注重从原理的层面进行知识点的解析，万变不离其宗，各种框架或技术之间其很多思想是相通的，把握住这点，将对读者们后续的学习会更有帮助。 
 <div style="color:#f90;text-align:right;">---李双双(Lissa)，腾讯前端工程师</div>
 
 ---
