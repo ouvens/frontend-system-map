@@ -50,7 +50,7 @@
 
 &emsp;&emsp;当然，如果你还是刚要入门的学习者，还没接触过前端，但是想要学习前端。那么，我也推荐你先学习另一个前端基础知识体系结构图来开始，加上一两个的项目实践，再来进阶学习2017年～2018年前端技术知识体系内容。[查看前端基础知识结构图](https://github.com/ouvens/frontend-system-map/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%9F%BA%E7%A1%80%E7%AF%87.png)
 
-&emsp;&emsp;新手推荐基础参考资料：[www.w3cschool.cn](http://www.w3cschool.cn/html/)，而不是 http://www.w3school.com.cn/哦。
+&emsp;&emsp;新手推荐基础参考资料：[www.w3cschool.cn](http://www.w3cschool.cn/html/)，而不是 http://www.w3school.com.cn/ 哦。
 
 #### 三、对于此书，看看腾讯、阿里的大牛怎么说
 
