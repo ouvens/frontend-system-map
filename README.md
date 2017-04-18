@@ -10,7 +10,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FupiJWwzqxI9CgVdE8yiI4n7srGG)
 
-[下载大图](https://github.com/ouvens/frontend-system-map/tree/master/v2)
+[下载大图](https://github.com/ouvens/frontend-system-map)
 
 &emsp;&emsp;大家也可以对比2016年的知识技术体系来看看：[2015-2016前端知识体系](http://jixianqianduan.com/frontend-resource/2016/01/26/front-end-learning-list.html)。在这次更新中，主要完善了原有的部分知识内容的原理解析，增加了新的领域内容。
 
@@ -19,7 +19,9 @@
 &emsp;&emsp;幸运的是，对于现代前端技术知识体系图，现在已经推出了[《现代前端技术解析》]()一书，针对2017年～2018年前端技术知识体系内容深入原理，展开剖析，体系化、全面地帮助前端读者们解决了这些问题。我们不妨先来看看[本书目录](https://github.com/ouvens/frontend-system-map/blob/master/v2/%E3%80%8A%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90%E3%80%8B%E7%9B%AE%E5%BD%95%E9%A2%84%E8%A7%88.pdf)，再回头来看。
 
 ####  二、《现代前端技术解析》适读人群
-&emsp;&emsp;本书是来自一位腾讯一线前端工程师的工作经验和技术成长梳理总结，是一本全部由阿里、腾讯前端团队多位技术管理和技术专家一起审稿推荐完成的**前端思维体系进阶必读书**，融合了业内极其全面的前端知识技术实践经验。
+
+&emsp;&emsp;前端入门及其简单，但要学习提升成为一名优秀的前端的工程师又及其不易，因为涉及的技术点很多，我们往往需要阅读很多书籍才能理解前端技术的知识体系。这本书在前端知识体系上做了很好的总结和梳理，涵盖了现代前端技术绝大部分的知识内容，起到一个启蒙作用，能帮助读者快速把握前端技术的整个脉络，培养更完善的体系化思维，掌握更多灵活的前端代码架构方法，能够帮助读者获得成为前端高级工程师或架构师所必须具备的思维和能力。
+&emsp;&emsp;同时，本书是来自一位腾讯一线前端工程师的工作经验和技术成长梳理总结，是一本全部由阿里、腾讯前端团队多位技术管理和技术专家一起审稿推荐完成的**前端思维体系成长进阶必读书**，融合了业内极其全面的前端知识技术实践经验。如果您不确定买不买，也可以先看看[本书目录](https://github.com/ouvens/frontend-system-map/blob/master/v2/%E3%80%8A%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90%E3%80%8B%E7%9B%AE%E5%BD%95%E9%A2%84%E8%A7%88.pdf)。
 
 ---
 
@@ -28,9 +30,9 @@
 ---
 
 &emsp;&emsp;<a target="_blank" href="https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130"><img src="http://7tszky.com1.z0.glb.clouddn.com/FgJZKAoJKAjGJsSt6h4Q8fLrSIqV" title="点击进入京东购买" width="240"/></a>
-&emsp;&emsp;<font color="red"> （约 &yen; 60 ~ &yen; 70）</font>
+&emsp;&emsp;<font color="red"> （折后约 &yen; 50 ~ &yen; 65）</font>
 
-&emsp;&emsp;[京东点击购买](https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130) &emsp;&emsp;[淘宝点击购买](https://s.taobao.com/search?q=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170417) &emsp;&emsp;[亚马逊购买](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Dstripbooks&field-keywords=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90)
+&emsp;&emsp;[进入京东购买](https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130) &emsp;&emsp;[进入淘宝购买](https://s.taobao.com/search?q=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170417) &emsp;&emsp;[进入亚马逊购买](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Dstripbooks&field-keywords=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90)
 
 ---
 
@@ -40,13 +42,13 @@
 
 2. **针对刚入门的初学者**。前端学习入门非常简单，但是进阶的道路非常漫长，不是折腾了几个框架就能深入学习的，入门后没有明确的方向指导，将可能一直停留在初级阶段。那么这本书能以一个更高的层面引导刚入门的学习者，应该具有怎样的前端视野和学习范畴。
 
-3. 针对**想要进一步学习前端进阶技能的职业者**，例如框架设计原理、架构设计原理等，想要报班学习或购买视频课程，但是培训报名费过极其昂贵（例如一般一套前端进阶课程一般在¥15000元以上）。前端技术发展很快，但是万变不离其宗。现在只需要低价购买这本书籍，自己静心学习，理解其中的原理，就能在学习时触类旁通各类相关技术，知识内容性价比高出几十倍百倍。
+3. 针对**想要进一步学习前端进阶技能的职业者**，例如框架设计原理、架构设计原理等，想要报班学习或购买视频课程，但是培训报名费过极其昂贵（例如一般一套前端进阶课程一般在**&yen;15000元**以上）。前端技术发展很快，但是万变不离其宗。现在只需要低价购买这本书籍，自己静心学习，理解其中的原理，就能在学习时触类旁通各类相关技术，知识内容性价比高出几十倍百倍。
 
 4. 在前端开发上**具有一定基础和开发经验**，但是对现代前端技术知识体系认识不够前面，**不够深入的开发者**。也可以通过此书快速了解主流技术框架和架构的设计原理，加速前端的学习过程，让学习的时间事半功倍。
 
 5. **对于进阶培训班的讲师或企业前端培训讲师**。每节课程都需要去开发整理课件，很花时间，但是课件又过于抽象，如果没人讲解，不易于重复学习和传播。那么这本书就能很有用地帮助你规划教学路径，让您更轻松、更详细地展开进阶教学内容，也能帮助学员们有书可读，有书可依。
 
-&emsp;&emsp;当然，如果你还是刚要入门的学习者，还没接触过前端，但是想要学习前端。那么，我也推荐你先学习另一个前端基础知识体系结构图来开始，再加上一两个的项目实践，再来进阶学习2017年～2018年前端技术知识体系内容。[查看前端基础知识结构图](https://github.com/ouvens/frontend-system-map/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%9F%BA%E7%A1%80%E7%AF%87.png)
+&emsp;&emsp;当然，如果你还是刚要入门的学习者，还没接触过前端，但是想要学习前端。那么，我也推荐你先学习另一个前端基础知识体系结构图来开始，加上一两个的项目实践，再来进阶学习2017年～2018年前端技术知识体系内容。[查看前端基础知识结构图](https://github.com/ouvens/frontend-system-map/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%9F%BA%E7%A1%80%E7%AF%87.png)
 
 &emsp;&emsp;新手推荐基础参考资料：[www.w3cschool.cn](http://www.w3cschool.cn/html/)，而不是 http://www.w3school.com.cn/哦。
 
@@ -77,7 +79,7 @@
 <div style="color:#f90;text-align:right;">---李双双(Lissa)，腾讯前端工程师</div>
 
 ---
-&emsp;&emsp; 申明：本文为半知识总结类文章，融合了知识技术体系总结，也向大家推荐了书籍，大家可以根据需要选择购买。对于前端学习者来说，相对于买一套昂贵的前端学习课程，购买一本课程内容的书更加实用，且反复学习，慢慢研究领悟，推荐买来看看，最后衷心祝各位前端learner们学有所成。
+&emsp;&emsp; 申明：本文为半知识总结类文章，融合了知识技术体系总结，也向大家推荐了书籍，大家可以根据需要选择购买。对于前端学习者来说，相对于买一套昂贵的前端学习课程，购买一本课程内容的书更加实用，且可以用于反复学习，慢慢研究领悟，推荐买来看看，最后衷心祝各位前端learner们学有所成。
 
 [京东点击购买](https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130) &emsp;&emsp;[淘宝点击购买](https://s.taobao.com/search?q=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170417) &emsp;&emsp;[亚马逊购买](https://www.amazon.cn/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90-%E5%BC%A0%E6%88%90%E6%96%87/dp/B06Y5WBR7T/ref=sr_1_1?ie=UTF8&qid=1492441680&sr=8-1&keywords=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90)
 
