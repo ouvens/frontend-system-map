@@ -10,7 +10,7 @@
 
 ![](http://7tszky.com1.z0.glb.clouddn.com/FupiJWwzqxI9CgVdE8yiI4n7srGG)
 
-[下载大图](https://github.com/ouvens/frontend-system-map)
+[查看code部分下载大图]
 
 &emsp;&emsp;大家也可以对比2016年的知识技术体系来看看：[2015-2016前端知识体系](http://jixianqianduan.com/frontend-resource/2016/01/26/front-end-learning-list.html)。在这次更新中，主要完善了原有的部分知识内容的原理解析，增加了新的领域内容。
 
