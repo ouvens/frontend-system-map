@@ -8,7 +8,7 @@
 
 &emsp;&emsp;我们先看看2017～2018前端技术知识体系图，这也是现代前端技术体系结构图的第二版。
 
-![](http://7tszky.com1.z0.glb.clouddn.com/FupiJWwzqxI9CgVdE8yiI4n7srGG)
+![](http://7tszky.com1.z0.glb.clouddn.com/Fh6uZEcmppcN50VRhM6Ae-hZdBwV)
 
 [查看code部分下载大图]
 
