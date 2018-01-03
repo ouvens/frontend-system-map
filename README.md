@@ -8,7 +8,7 @@
 
 &emsp;&emsp;我们先看看2017～2018前端技术知识体系图，这也是现代前端技术体系结构图的第二版。
 
-![](https://raw.githubusercontent.com/ouvens/frontend-system-map/master/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90_V2%40%E9%AB%98%E6%B8%85.jpg)
+![](https://raw.githubusercontent.com/ouvens/frontend-system-map/master/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90_V2%40%E9%AB%98%E6%B8%85.jpg)&emsp;&emsp;[查看豆瓣评分](https://book.douban.com/subject/27021790/)
 
 [查看code部分下载大图]
 
@@ -18,8 +18,6 @@
 
 &emsp;&emsp;幸运的是，对于现代前端技术知识体系图，现在已经推出了[《现代前端技术解析》](https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&pvid=1d4c950a6df34530b1fc1585ca7e011f)一书，针对2017年～2018年前端技术知识体系内容深入原理，展开剖析，体系化、全面地帮助前端读者们解决了这些问题。我们不妨先来看看[本书目录](https://github.com/ouvens/frontend-system-map/blob/master/v2/%E3%80%8A%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90%E3%80%8B%E7%9B%AE%E5%BD%95.pdf)（打不开看[这个链接](http://pan.baidu.com/s/1i4NMvQl)），再回头来看。
 
-
-&emsp;&emsp;[查看豆瓣评分](https://book.douban.com/subject/27021790/)
 
 ####  二、《现代前端技术解析》适读人群
 
