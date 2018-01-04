@@ -1,5 +1,5 @@
 
-<a href="https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130"><img src="http://7tszky.com1.z0.glb.clouddn.com/Fm9f00eiJ4OMozFXeNUKwurzVzo1" title="现代前端技术解析" width="50%"></a> &emsp;&emsp;[查看豆瓣评分](https://book.douban.com/subject/27021790/)
+<a href="https://search.jd.com/Search?keyword=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&enc=utf-8&wq=%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90&pvid=fcced0a32e8b43de8b93fca570a93130"><img src="http://7tszky.com1.z0.glb.clouddn.com/Fm9f00eiJ4OMozFXeNUKwurzVzo1" title="现代前端技术解析" width="50%"></a> &emsp;&emsp;首先肯定是一本好书啦，[查看豆瓣评分](https://book.douban.com/subject/27021790/)
 
 
 &emsp;&emsp;2017年很快又过去了几个月，在过去的一年里，前端技术迅猛发展，前端各类技术都在优化升级，"大前端"的概念进一步体现，前端人才需求量进一步扩大，但优秀的前端工程师却如大海捞针，一将难求，那么在未来一年里我们应该做好怎样的准备才能成为一名优秀(不仅仅是合格)的前端工程师呢？
